@@ -6,8 +6,4 @@ first development branch change!!
 
 Another change - for the website!
 
-<<<<<<< HEAD
 This is the wrong thing.
-=======
-This is the right thing
->>>>>>> main
